@@ -2,10 +2,10 @@
 Advanced microblog app with Flask
 
 ## Prerequisites
-Python 3.7.0
-Flask 0.12.4
-flask-sqlalchemy
-flask-migrate
+* Python 3.7.0
+* Flask 0.12.4
+* flask-sqlalchemy
+* flask-migrate
 
 ## Getting Started
 ### Linux
