@@ -6,6 +6,7 @@ Advanced microblog app with Flask
 * Flask 0.12.4
 * flask-sqlalchemy
 * flask-migrate
+* flask-login
 
 ## Getting Started
 ### Linux
@@ -21,3 +22,6 @@ cd microblog
 set FLASK_APP=microblog.py
 flask run
 ```
+
+Username/Password
+* susan/cat
