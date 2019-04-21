@@ -25,7 +25,7 @@ flask run
 
 Username/Password
 * susan/cat
-* admin/admin
+* john/admin
 
 ## Error Handling
 Use `export` on Linux instead of `set` on Windows.
