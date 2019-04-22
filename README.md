@@ -9,6 +9,7 @@ Advanced microblog app with Flask
 * flask-login
 * flask-mail
 * pyjwt
+* flas-bootstrap
 
 ## Getting Started
 ### Linux
