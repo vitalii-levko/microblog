@@ -7,6 +7,8 @@ Advanced microblog app with Flask
 * flask-sqlalchemy
 * flask-migrate
 * flask-login
+* flask-mail
+* pyjwt
 
 ## Getting Started
 ### Linux
@@ -25,7 +27,7 @@ flask run
 
 Username/Password
 * susan/cat
-* john/admin
+* john/dog
 
 ## Error Handling
 Use `export` on Linux instead of `set` on Windows.
