@@ -10,6 +10,7 @@ Advanced microblog app with Flask
 * flask-mail
 * pyjwt
 * flas-bootstrap
+* flask-moment
 
 ## Getting Started
 ### Linux
